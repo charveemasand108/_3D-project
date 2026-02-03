@@ -1,27 +1,58 @@
-# 3D Project
+<div align="center">
 
-A **3D web experience** built with [Three.js](https://threejs.org/) and deployed with Vercel.  
-This app showcases interactive 3D visuals in the browser.
+# 🌌 3D Web Experience
 
-## 🚀 Features
+✨ An immersive **3D interactive web project** built for the modern web  
+🚀 Deployed live on **Vercel**
 
-- Interactive 3D scene
-- Responsive design
-- WASD / mouse controls (if applicable)
-- Optimized for web
+🔗 **Live Demo:**  
+👉 https://3-d-project-x2vj.vercel.app
 
-## 💻 Tech Stack
+---
 
-- JavaScript / TypeScript
-- Three.js
-- React / Next.js (if used)
-- GLSL / Shaders (if used)
-- Model formats: GLTF / FBX / OBJ
+### 🧠 Where design meets code.  
+A smooth, visually rich 3D experience crafted to explore **web-based 3D, motion, and interaction**.
 
-## 📦 Installation
+</div>
 
-```bash
-git clone https://github.com/<YOUR_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
-npm install
-npm run dev
+---
+
+## ✨ Highlights
+
+🎮 Interactive 3D environment  
+🖱️ Smooth camera & object interactions  
+📱 Responsive across devices  
+⚡ High-performance rendering  
+🎨 Clean visuals with modern UI feel  
+☁️ Deployed seamlessly on Vercel  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,threejs,vercel" />
+</p>
+
+- **Three.js** – 3D rendering engine  
+- **React / Next.js** – Component-driven UI  
+- **JavaScript** – Core logic & interactions  
+- **WebGL** – GPU-accelerated graphics  
+- **Vercel** – Fast global deployment  
+
+---
+
+## 🧩 What This Project Demonstrates
+
+- Understanding of **3D graphics on the web**
+- Real-time rendering concepts
+- Scene, camera, and lighting setup
+- Performance-friendly animations
+- Clean separation of logic and visuals
+
+This project serves as a **foundation for advanced 3D apps**, portfolios, games, or experimental interfaces.
+
+---
+
+## 📂 Project Structure (Typical)
+
