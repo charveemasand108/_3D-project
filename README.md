@@ -55,4 +55,11 @@ This project serves as a **foundation for advanced 3D apps**, portfolios, games,
 ---
 
 ## 📂 Project Structure (Typical)
+src/
+├─ components/ # Reusable UI & 3D components
+├─ scenes/ # 3D scenes & layouts
+├─ assets/ # Models, textures, materials
+├─ styles/ # Global & component styles
+├─ utils/ # Helper functions
+└─ public/ # Static files
 
